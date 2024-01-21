@@ -34,7 +34,7 @@
 .dest{
     position: absolute;
     left: 300px;
-    top: 200px;
+    /* top: 200px;  */
 }
 .trip{
     position: absolute;
